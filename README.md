@@ -169,7 +169,7 @@ Open to discussing complex systems and new opportunities that drive measurable i
 
 <div align="center">
 
-📧 [Send Message](https://luke-anglin.github.io/#contact) • 📄 [Resume](https://luke-anglin.github.io/assets/Luke_Anglin_Resume.pdf)
+📧 [Send Message](https://luke-anglin.github.io/#contact) • 📄 [Resume](https://luke-anglin.github.io/assets/AIEngineer.pdf)
 
 **"Build intelligent systems that generate clear profit"**
 
