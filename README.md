@@ -4,8 +4,8 @@
 
 **AI Engineer & Builder** | Neural Nets • GPU • Distributed • Cloud • Vision
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-anglin-9910411b5/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://luke-anglin.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luketyleranglin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://luketyleranglin.github.io/)
 
 </div>
 
