@@ -1,175 +1,63 @@
 <div align="center">
 
-# 🚀 Luke Anglin
+# Luke Anglin
 
-**AI Engineer & Builder** | Neural Nets • GPU • Distributed • Cloud • Vision
+### AI engineer building systems that make intelligence useful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luketyleranglin/)
+Research engineering · ML infrastructure · LLM evaluation · distributed systems
+
+[Website](https://luketyleranglin.github.io) · [Resume](https://luketyleranglin.github.io/assets/Luke-Anglin-Resume.pdf) · [Research portfolio](https://github.com/LukeTylerAnglin/research-portfolio)
 
 </div>
 
----
+## What I work on
 
-## 🎯 The Mission
+I build AI systems across the boundary between models and infrastructure: production LLM and agent workflows, evaluation, retrieval, multimodal generation, inference, and cloud-scale delivery.
 
-Build intelligent systems that generate **clear profit**—a rarity in today's AI landscape. I deploy Reinforcement Learning and Deep Learning solutions that don't just work, they drive **measurable business value** through automation and efficiency.
+My north star is practical impact: does the system save time, reduce cost, improve quality, or create new capability?
 
-### Core Expertise
+## Independent research
 
-🧠 **Deep Learning & Distributed Training** — Optimizing models purely for speed and memory efficiency  
-☁️ **Cloud-Native Architecture** — Orchestrating infrastructure from on-prem clusters to enterprise cloud  
-💼 **Enterprise Solutions** — Engineering systems that translate technical performance into direct capital efficiency  
-🔗 **Networking Fundamentals** — CCNA Certified with strong routing, switching, and protocol security expertise
+I maintain a small reproducible research portfolio focused on the engineering questions behind reliable AI:
 
----
+- **Attention Regime Predictor** — measuring whether workload features can predict the faster exact attention implementation.
+- **Revision-Time Evaluation** — testing whether timestamped revisions expose future-data leakage hidden by static benchmarks.
+- **Counterfactual Attention Stability** — exploring when attention visualizations disagree with output sensitivity.
+- **Reproducibility Drift Detector** — separating declared configuration changes from observed behavioral drift.
 
-## 💼 Impact & Projects
+Each project includes code, pilot outputs, citations, and limitations. The work is independent research and is not presented as peer-reviewed publication.
 
-<table>
-<tr>
-<td width="50%">
+## Selected engineering work
 
-### 🏥 EMR AI Extraction
-Engineered an LLM-based API to extract structured data from medical records using OCR & Computer Vision.
+| Area | Evidence |
+|---|---|
+| Enterprise AI | LLM, RAG, agent, and computer-vision workflows for complex business processes |
+| ML systems | GPU-backed generation, distributed workloads, inference, caching, and observability |
+| Production impact | Systems tied to time saved, cost reduced, throughput, and operational reliability |
+| Client delivery | Technical discovery through deployment and expansion across enterprise engagements |
 
-**Tech:** Python • LLMs • Computer Vision  
-**Impact:** ~$2M Estimated Savings  
-**Org:** Elevance Health
+## Technical focus
 
-</td>
-<td width="50%">
-
-### 📊 M&A Agentic RAG
-Multimedia Retrieval-Augmented Generation app for M&A teams with custom recommendation engine.
-
-**Tech:** RAG • GenAI • Vector DB  
-**Impact:** 200+ Hrs Saved Per Project  
-**Org:** Elevance Health
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💰 RL-Based Bid Model
-Reinforcement learning model optimizing financial team operations and accuracy.
-
-**Tech:** Reinforcement Learning • Analytics  
-**Impact:** 2 Wks Reduction/Year  
-**Org:** Elevance Health
-
-</td>
-<td width="50%">
-
-### 🤖 Enterprise Workflow Automation
-Architected LangChain applications optimizing workforce allocation and reducing operational overhead.
-
-**Tech:** LangChain • Azure • GenAI  
-**Impact:** ~$4M Client Savings  
-**Org:** Ernst & Young
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁️ Managed AWS Operations
-Orchestrated managed AWS infrastructure supporting scalable image and video generation solutions.
-
-**Tech:** AWS • Infrastructure-as-Code • GenAI Media  
-**Impact:** 2.5M Tokens Processed/Day  
-**Org:** Adobe
-
-</td>
-<td width="50%">
-
-### ⚡ Kafka Parallelism Optimization
-Implemented parallelism speedups for high-throughput Kafka operations enhancing real-time data processing.
-
-**Tech:** Kafka • Distributed Systems • Big Data  
-**Impact:** ~2x Throughput Increase  
-**Org:** Tesla
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 Distributed Training Infrastructure
-Novel distributed training techniques across GPU clusters optimizing deep learning model performance.
-
-**Tech:** PyTorch • GPU • Research  
-**Impact:** 55% Training Speedup (GPU)  
-**Org:** UVA Research
-
-</td>
-<td width="50%">
-
-### 📡 IoT Federated Learning
-Distributed learning on resource-constrained IoT devices using GPS data for public transportation systems.
-
-**Tech:** C++ • Federated Learning • Edge AI  
-**Impact:** 60% Online vs Offline Improvement  
-**Org:** UVA Research
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🐍 Languages
-```
-Python • C++ • Go • SQL • JavaScript/TypeScript • Java
+```text
+AI systems       Python · PyTorch · Transformers · LLMs · RAG · agents · computer vision
+Performance      GPU profiling · throughput · memory · inference · caching · cost-quality trade-offs
+Reliability      evaluation · regression testing · fault tolerance · observability
+Infrastructure   TypeScript · C++ · Go · Rust · AWS · Azure · Docker · Kubernetes · Kafka
 ```
 
-### 🧠 AI & Machine Learning
-```
-LLMs • RAG Systems • PyTorch • TensorFlow • Reinforcement Learning
-Computer Vision • Distributed Training • Diffusion Models
-```
+## How I work
 
-### ☁️ Cloud & DevOps
-```
-AWS • Azure • GCP • Docker & Kubernetes • Kafka • Snowflake • CI/CD (Jenkins)
-```
+1. Start with a measurable question.
+2. Build the smallest reproducible experiment.
+3. Separate measured results from design proposals.
+4. Publish the trade-offs and limitations.
 
----
+## Beyond code
 
-## 📚 Credentials & Background
-
-- 🎓 **University of Virginia** — B.S. Computer Science  
-- 🏆 **CCNA Certified** — Cisco Systems  
-- 📖 **MBA Candidate** — In Progress
-
----
-
-## 🎵 Beyond Code
-
-When I'm not building intelligent systems, you'll find me:
-
-🐕 Service dog training  
-🏄 Surfing  
-🎸 Music production  
-🎮 Game engines  
-🔨 Building furniture  
-🌍 Language learning
-
----
-
-## 💬 Let's Build
-
-Open to discussing complex systems and new opportunities that drive measurable impact.
+Service-dog training · surfing · music production · game engines · furniture building
 
 <div align="center">
 
-📧 [Send Message](https://luke-anglin.github.io/#contact) • 📄 [Resume](https://luke-anglin.github.io/assets/AIEngineer.pdf)
-
-**"Build intelligent systems that generate clear profit"**
+Open to thoughtful conversations about AI systems, research engineering, and useful automation.
 
 </div>
