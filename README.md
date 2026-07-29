@@ -6,7 +6,7 @@
 
 Research engineering · ML infrastructure · LLM evaluation · distributed systems
 
-[Website](https://luketyleranglin.github.io) · [Resume](https://luketyleranglin.github.io/assets/Luke-Anglin-Resume.pdf) · [Research portfolio](https://github.com/LukeTylerAnglin/research-portfolio)
+[Website](https://luketyleranglin.github.io) · [Resume](https://drive.google.com/file/d/1jl4-QcdSq_O_RrT0fGCrfpogtQoKmc7f/view?usp=drive_link) · [Research portfolio](https://github.com/LukeTylerAnglin/research-portfolio)
 
 </div>
 
