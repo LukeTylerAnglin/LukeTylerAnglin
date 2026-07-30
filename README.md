@@ -2,7 +2,7 @@
 
 # Luke Anglin
 
-### AI engineer building systems that make intelligence useful.
+### I use AI to save time and build wealth.
 
 Research engineering · ML infrastructure · LLM evaluation · distributed systems
 
