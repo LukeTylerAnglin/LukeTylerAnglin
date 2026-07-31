@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=210&section=header&text=LUKE%20ANGLIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Systems%20%7C%20Research%20%7C%20Impact&descAlignY=61&descSize=18" width="100%" alt="Luke Anglin — AI Engineer, Systems, Research, Impact" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=210&section=header&text=LUKE%20ANGLIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20RESEARCH%20%7C%20SYSTEMS%20%7C%20IMPACT&descAlignY=61&descSize=17" width="100%" alt="Luke Anglin" />
 
-<h3>AI engineer building systems that make intelligence useful at scale ✦</h3>
+<h3>Building AI systems that make intelligence useful at scale ✦</h3>
 
 <a href="https://luketyleranglin.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/luketyleranglin/"><img src="https://img.shields.io/badge/💼%20LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,80 +22,131 @@
 
 ## ⚡ The headline
 
-I work at the boundary between models and infrastructure: production LLM and agent workflows, evaluation, retrieval, multimodal generation, inference, and cloud-scale delivery.
+I am an AI/ML engineer focused on the hard middle layer between models and production: high-performance inference, agent systems, evaluation, retrieval, multimodal generation, cloud architecture, and distributed workloads.
 
-My north star is practical impact: **does the system save time, reduce cost, improve quality, or create new capability?**
+I care about useful outcomes: **time saved, cost reduced, quality improved, and capability unlocked.**
 
-## 🏢 Where I’ve built
+## 🧪 Flagship independent research
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scale%20AI-111827?style=for-the-badge&logoColor=white" alt="Scale AI" />
-<img src="https://img.shields.io/badge/Tesla-e82127?style=for-the-badge&logo=tesla&logoColor=white" alt="Tesla" />
-<img src="https://img.shields.io/badge/Adobe-ff0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
-<img src="https://img.shields.io/badge/Ernst%20%26%20Young-ffe600?style=for-the-badge&logoColor=111827" alt="Ernst and Young" />
-<img src="https://img.shields.io/badge/Elevance%20Health-0073ba?style=for-the-badge&logoColor=white" alt="Elevance Health" />
-<img src="https://img.shields.io/badge/UVA-e57200?style=for-the-badge&logoColor=white" alt="University of Virginia" />
-
-</div>
-
-<p align="center"><sub>Enterprise AI · GPU-backed generation · distributed workloads · data and evaluation · client delivery</sub></p>
-
-## 🏆 Selected work
+The most important work on this profile is the research portfolio: reproducible studies that turn open AI-systems questions into measurable experiments.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [RAG + evaluation](https://github.com/LukeTylerAnglin/RAG)
+### ⚙️ Attention Regime Predictor
 
-Hands-on retrieval-augmented generation work exploring chunking, ranking, evaluation, and practical failure modes.
+Can workload and hardware features predict the fastest exact attention implementation before execution?
 
-`Python` `NLP` `Retrieval` `Evaluation`
+`GPU systems` `PyTorch` `benchmarking`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [Creative automation](https://github.com/LukeTylerAnglin/FDE_Take_Home)
+### 🕰️ Revision-Time Evaluation
 
-Full-stack proof of concept for generating campaign assets, organizing outputs, and reviewing creative variants.
+Can timestamped knowledge revisions reveal contamination and knowledge-update behavior hidden by static benchmarks?
 
-`Gemini` `FastAPI` `Dropbox` `Multimodal AI`
+`LLM evaluation` `data provenance` `reproducibility`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 [DrugDataQC](https://github.com/LukeTylerAnglin/DrugDataQC)
+### 🧠 Counterfactual Attention Stability
 
-Reproducible quality-control and statistics pipeline with explicit schemas, invalid-row handling, generated artifacts, and tests.
+When do attention visualizations change while model outputs remain stable—and how should a tool warn users?
 
-`Python` `uv` `Data Quality` `pytest`
+`interpretability` `visualization` `model analysis`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Independent research](https://github.com/LukeTylerAnglin)
+### 🔁 Reproducibility Drift Detector
 
-Building a research-engineering portfolio around attention performance, evaluation leakage, interpretability, reproducibility, and inference systems.
+Can experiment manifests and canary cases distinguish changed configuration from changed model behavior?
 
-`PyTorch` `GPU` `Benchmarks` `Systems`
+`eval infrastructure` `drift detection` `experiment design`
 
 </td>
 </tr>
 </table>
 
-## 🧭 My operating system
+<p align="center"><sub>Independent research. Proposed and measured claims are labeled separately; no project is presented as peer-reviewed publication.</sub></p>
 
-```text
-1. Start with a measurable question.
-2. Build the smallest reproducible experiment.
-3. Separate measured results from design proposals.
-4. Publish the trade-offs and limitations.
-```
+## 🏢 Company work
 
-## 🧰 Technical stack
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Scale AI · Frontier Agents
+
+Building frontier-agent technology in messy enterprise environments, including continual-learning environments, cross-tenant capabilities, client-facing technical delivery, RLHF, and agent evaluation.
+
+`agents` `RLHF` `evals` `enterprise AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 Adobe · Generative Media
+
+Designed high-performance, high-volume autoscaling workflows for large-scale image generation using cloud GPUs, while delivering human-in-the-loop agentic systems for marketing workflows.
+
+`cloud GPUs` `inference` `multimodal AI` `autoscaling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 Elevance Health · Applied AI
+
+Built EMR extraction with computer vision and LLMs, an MCP-enabled RAG application for M&A teams, RL systems for Medicare bidding, and a voice-responsive AI agent.
+
+**Resume-reported impact:** approximately $2M savings and approximately 200 hours saved per project.
+
+`PyTorch` `CUDA` `RAG` `voice AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🟡 EY · Cloud Transformation
+
+Architected LangGraph-based automation and migrated banking clients from on-premise systems to Azure and Snowflake, including high-performance C++ and Rust optimization work.
+
+**Resume-reported impact:** approximately $4M client savings.
+
+`LangGraph` `Azure` `Snowflake` `C++` `Rust`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Tesla · Data + Distributed Systems
+
+Multithreaded Kafka operations, analyzed production logs, and worked in high-performance Go repositories supporting mobile routing systems.
+
+**Resume-reported result:** approximately 30% speed improvement.
+
+`Go` `Kafka` `Jenkins` `Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 UVA · Deep Learning Research
+
+Worked with federated learning, edge devices, GPU workloads, Docker-based parallelism, and image-recognition architectures.
+
+`federated learning` `edge AI` `GPUs` `TensorFlow`
+
+</td>
+</tr>
+</table>
+
+## 🧰 Technical focus
 
 <div align="center">
 
@@ -103,6 +154,8 @@ Building a research-engineering portfolio around attention performance, evaluati
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -111,14 +164,14 @@ Building a research-engineering portfolio around attention performance, evaluati
 
 </div>
 
-## 📊 The GitHub bookshelf
+## 🧭 How I work
 
-<div align="center">
-
-<a href="https://github.com/LukeTylerAnglin?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=LukeTylerAnglin&show_icons=true&hide_border=true&theme=transparent&title_color=1d4ed8&icon_color=0891b2&text_color=475569" alt="Luke's GitHub statistics" /></a>
-<a href="https://github.com/LukeTylerAnglin?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeTylerAnglin&layout=compact&hide_border=true&theme=transparent&title_color=1d4ed8&text_color=475569" alt="Luke's most used languages" /></a>
-
-</div>
+```text
+1. Start with a measurable question.
+2. Build the smallest reproducible experiment.
+3. Separate measured results from design proposals.
+4. Publish the trade-offs and limitations.
+```
 
 ## 🌊 Beyond code
 
